@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Love Pets</title>
+  </head>
+  <body>
+  <h1>Love pets</h1>
+  <h2>Cuando tu no estas cuidamos nosotros de ellos</h2>
+  <h3>Quienes somos</h3>
+    <p> <strong> Love pets </storng> Nos dedicamos a cuidar de tus compañeros de vida mientras tu estas trabajando, ellos no pasarán tantas horas solos y tu estaras mas tranquilo sabiendo que están acompañados.</p>
+  <h3> Nuestros servicios </3>
+    <p> Nuestros servicios se ajustan a todos los bolsillos haciendo posible que todo el mundo puedan acceder a nuetsros servicios.Lo unico que pedimos es que como minimo estemos dos horas con tus pequños</p>
+    <table>
+<caption>Tabla de precios</caption>
+<th>
+   <td>Dos horas</td>
+   <td>Tres horas</td>
+   <td>Cuatro horas</td>
+   <td>Cinco horas</td>
+   <td>Seis horas</td>
+   <td>Siete horas</td>
+   <td>Ocho horas</td>
+</th>
+<tr>
+   <td>20€</td>
+   <td>30€</td>
+   <td>40€</td>
+   <td>50€</td>
+   <td>60€</td>
+   <td>70€</td>
+   <td>80€</td>
+</tr>
+
+</table>
+  </body>
+</html>
