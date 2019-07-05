@@ -9,8 +9,9 @@
   <h2>Cuando tu no estas cuidamos nosotros de ellos</h2>
   <h3>Quienes somos</h3>
     <p> <strong> Love pets </storng> Nos dedicamos a cuidar de tus compañeros de vida mientras tu estas trabajando, ellos no pasarán tantas horas solos y tu estaras mas tranquilo sabiendo que están acompañados.</p>
-  <h3> Nuestros servicios </3>
-    <p> Nuestros servicios se ajustan a todos los bolsillos haciendo posible que todo el mundo puedan acceder a nuetsros servicios.Lo unico que pedimos es que como minimo estemos dos horas con tus pequños</p>
+  <h3> Nuestros servicios </h3>
+  <h3>Precios</h3>
+    <p> Nuestros precios se ajustan a todos los bolsillos haciendo posible que todo el mundo puedan acceder a nuetsros servicios.Lo unico que pedimos es que como minimo estemos dos horas con tus pequños</p>
     <table>
 <caption>Tabla de precios</caption>
 <th>
@@ -31,7 +32,35 @@
    <td>70€</td>
    <td>80€</td>
 </tr>
-
 </table>
+<h3> Contacto </h3>
+<p> Si estas interesado en nuestros servicios puedes ponerte en contacto con nostros atraves de mail interesado@lovepets.com o rellenando el siguiente formulario:</p>
+<form method="Info" action="miservidor.php">
+     <div>
+       <label for=”nombre”>Nombre:</label>
+       <input id=”nombre” type=”text”>
+     </div>
+     <div>
+       <label for=”ape1”>Primer apellido:</label>
+       <input id=”ape1” type=”text”>
+     </div>
+     <div>
+       <label for=”ape2”>Segundo apellido:</label>
+       <input id=”ape2” type=”text”>
+     </div>
+    <div>
+       <label for=”Mascota”>Tipo de mascota:</label>
+       <select id=”Mascota”>
+         <option value=”Perro”>Perro</option>
+         <option value=”Gato”>Gato</option>
+         <option value=”Roedor”>Roedor</option>
+       </select>
+   </div>
+   <div>
+       <label for=”Email”>Tu email:</label>
+       <input id=”Email” type=”text”>
+   </div>
+   <input type=”submit” value=”Enviar”>
+</form>
   </body>
 </html>
