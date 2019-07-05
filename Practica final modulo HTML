@@ -5,10 +5,13 @@
     <title>Love Pets</title>
   </head>
   <body>
+  <img src="logo empresa.png" alt="Logo Love Pets">   
   <h1>Love pets</h1>
   <h2>Cuando tu no estas cuidamos nosotros de ellos</h2>
+  <img src="foto de perro.png" alt="Perro jugando">   
   <h3>Quienes somos</h3>
     <p> <strong> Love pets </storng> Nos dedicamos a cuidar de tus compañeros de vida mientras tu estas trabajando, ellos no pasarán tantas horas solos y tu estaras mas tranquilo sabiendo que están acompañados.</p>
+  <img src="Foto de gato.png" alt="Gato con mimos">   
   <h3> Nuestros servicios </h3>
     <p> Nuestros servicios son muy variados y se ajustan al tipo de mascota. Entre ellos puedes encontrar:</p>
     <ul>
@@ -17,6 +20,7 @@
    <li>Juegos: Jugaremos con ellos hasta que se cansen de nostros</li>
    <li>Aseo: Les dejaremos guapos guapos para que cuando tu llegues esten perfectos</li>
 </ul>
+<img src="conejo.png" alt="Conejo cuidado">   
   <h3>Precios</h3>
     <p> Nuestros precios se ajustan a todos los bolsillos haciendo posible que todo el mundo puedan acceder a nuetsros servicios.Lo unico que pedimos es que como minimo estemos dos horas con tus pequños</p>
     <table>
@@ -40,6 +44,7 @@
    <td>80€</td>
 </tr>
 </table>
+<img src="Cachorritos durmiendo.png" alt="Cachorros de perro durmiendo">  
 <h3> Contacto </h3>
 <p> Si estas interesado en nuestros servicios puedes ponerte en contacto con nostros atraves de mail interesado@lovepets.com o rellenando el siguiente formulario:</p>
 <form method="Info" action="miservidor.php">
